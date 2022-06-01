@@ -1,0 +1,4 @@
+backports.zoneinfo==0.2.1
+Django==2.2
+channels==2.2
+sqlparse==0.4.2
